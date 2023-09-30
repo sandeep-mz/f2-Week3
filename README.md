@@ -6,6 +6,9 @@ This web application allows users to set and manage multiple timers. It follows 
 
 ## Features
 
+![Screenshot 2023-09-30 184336](https://github.com/sandeep-mz/frontend-mt-2/assets/108665091/1faf7672-d735-499b-8e55-62fb3b3c1b72)
+
+
 ### 1. Timer Input Section
 
 - Users can input the desired time in hours, minutes, and seconds.
@@ -40,7 +43,7 @@ To use the Timer Web Application, follow these steps:
 
 To get started with this project, you can clone this repository to your local machine using the following command:
 
-# Contact✔️🔴
+## Contact✔️🔴
 
 If you have any questions or need further information about the project, you can contact the project owner at - @initialsandeep09@gmail.com.
 
