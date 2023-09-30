@@ -48,8 +48,8 @@ To get started with this project, you can clone this repository to your local ma
 If you have any questions or need further information about the project, you can contact the project owner at - @initialsandeep09@gmail.com.
 
 
-GITHUB LINK https://github.com/sandeep-mz/frontend-mt-2
+GITHUB LINK https://github.com/sandeep-mz/f2-Week3
 
-DEPLOYED LINK https://sandeep-mz.github.io/frontend-mt-2/
+DEPLOYED LINK https://sandeep-mz.github.io/f2-Week3/
 
 
