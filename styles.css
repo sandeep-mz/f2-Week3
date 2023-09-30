@@ -78,3 +78,41 @@ button:hover {
     color: #fff;
     border: 1px solid #ffef45   ;
 }
+
+
+/* Media Query for screens with a maximum width of 768px */
+@media (max-width: 425px) {
+    /* Adjust font size and padding for smaller screens */
+    .timer-input-section, .timer {
+        font-size: small;
+        padding: 10px;
+    }
+    .container{
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+    input{
+        width :13em ;
+        height: 1.5rem;
+    }
+    #startTimer{
+        width: 11.5rem;
+        height: 1.5rem;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 513px) {
+    /* Add your styles for this screen size range here */
+    .container{
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+    input{
+        width :13em ;
+        height: 1.5rem;
+    }
+    #startTimer{
+        width: 11.5rem;
+        height: 1.5rem;
+    }
+}
